@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "legos_api.Legos.Controllers.LegoController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/v1/Lego/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "legoReq",
+        "Type": "legos_api.Legos.Dtos.LegoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "legos_api.Legos.Dtos.LegoResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "legos_api.Legos.Controllers.LegoController",
+    "Method": "GetLegoAsync",
+    "RelativePath": "api/v1/Lego/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[legos_api.Legos.Model1.Lego, legos-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

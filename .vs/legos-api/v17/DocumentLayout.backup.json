@@ -1,12 +1,241 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\legos-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\model1\\lego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\model1\\lego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\dtos\\legorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\dtos\\legorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\dtos\\legoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\dtos\\legoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\legocontrollers\\legocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\legocontrollers\\legocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\mapers\\legomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\mapers\\legomappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\repositorys\\legorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\repositorys\\legorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos\\repositorys\\ilegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos\\repositorys\\ilegorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|c:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{936BD960-2276-45C3-AFA2-38D028599C22}|legos-api\\legos-api.csproj|solutionrelative:legos-api\\legos-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILegoRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Repositorys\\ILegoRepo.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Repositorys\\ILegoRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Repositorys\\ILegoRepo.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Repositorys\\ILegoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:03:05.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LegoRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Repositorys\\LegoRepo.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Repositorys\\LegoRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Repositorys\\LegoRepo.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Repositorys\\LegoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:02:58.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegoMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Mapers\\LegoMappingProfile.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Mapers\\LegoMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Mapers\\LegoMappingProfile.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Mapers\\LegoMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:02:45.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegoResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Dtos\\LegoResponse.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Dtos\\LegoResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Dtos\\LegoResponse.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Dtos\\LegoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:02:28.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LegoRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Dtos\\LegoRequest.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Dtos\\LegoRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Dtos\\LegoRequest.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Dtos\\LegoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:02:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSchema.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeDocumentMoniker": "legos-api\\Data\\Migrations\\CreateSchema.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Data\\Migrations\\CreateSchema.cs",
+              "RelativeToolTip": "legos-api\\Data\\Migrations\\CreateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:00:08.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "legos-api\\Data\\Migrations\\AppDbContext.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Data\\Migrations\\AppDbContext.cs",
+              "RelativeToolTip": "legos-api\\Data\\Migrations\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:00:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lego.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Model1\\Lego.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\Model1\\Lego.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\Model1\\Lego.cs",
+              "RelativeToolTip": "legos-api\\Legos\\Model1\\Lego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:55:23.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\appsettings.json",
+              "RelativeDocumentMoniker": "legos-api\\appsettings.json",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\appsettings.json",
+              "RelativeToolTip": "legos-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T14:45:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Program.cs",
+              "RelativeDocumentMoniker": "legos-api\\Program.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Program.cs",
+              "RelativeToolTip": "legos-api\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAMwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:45:08.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LegoController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\LegoControllers\\LegoController.cs",
+              "RelativeDocumentMoniker": "legos-api\\Legos\\LegoControllers\\LegoController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\Legos\\LegoControllers\\LegoController.cs",
+              "RelativeToolTip": "legos-api\\Legos\\LegoControllers\\LegoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:05:25.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "legos-api.http",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.http",
+              "RelativeDocumentMoniker": "legos-api\\legos-api.http",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.http",
+              "RelativeToolTip": "legos-api\\legos-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-22T16:21:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "legos-api.csproj",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.csproj",
+              "RelativeDocumentMoniker": "legos-api\\legos-api.csproj",
+              "ToolTip": "C:\\mycode\\asp.net\\legos-api\\legos-api\\legos-api.csproj",
+              "RelativeToolTip": "legos-api\\legos-api.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T15:52:53.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
